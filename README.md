@@ -1,5 +1,14 @@
-PASSWORD GENERATOR
+# PASSWORD GENERATOR
 
-for this project i was asked to make a pasword generator.
+ ## Description
+ Create a random password using javascript and user input
 
-i needed to find out how many characters the user wants. then i asked whether or not they want upper, lower, numbers, and/or special characters te be included in what would be chosen. finally i randomly chose however many characters were included in the grouping.
+## Depoloyment
+
+[Live](https://jonkhunkle.github.io/passwordgen/)
+![Image](https://i.imgur.com/GCgQ9hI.png)
+
+
+## Contact
+
+*Find me on GitHub* [@JonkHunkle](https://github.com/JonkHunkle)
